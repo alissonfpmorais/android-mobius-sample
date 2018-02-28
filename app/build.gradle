@@ -30,4 +30,14 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+
+    // Mobius
+    implementation "com.spotify.mobius:mobius-core:$mobius_version"
+    implementation "com.spotify.mobius:mobius-rx2:$mobius_version"
+    implementation "com.spotify.mobius:mobius-android:$mobius_version"
+    implementation "com.spotify.mobius:mobius-extras:$mobius_version"
+    testImplementation "com.spotify.mobius:mobius-test:$mobius_version"
+
+    // RxBinding
+    implementation "com.jakewharton.rxbinding2:rxbinding:$rxbinding_version"
 }

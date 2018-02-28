@@ -1,7 +1,8 @@
-package br.com.alissonfpmorais.androidmobiussample
+package br.com.alissonfpmorais.androidmobiussample.login.runtime.ui
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import br.com.alissonfpmorais.androidmobiussample.R
 
 class LoginActivity : AppCompatActivity() {
 
