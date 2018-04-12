@@ -5,7 +5,8 @@ Android Mobius Sample
 This project has intended to be an example showing how to use [Mobius](https://github.com/spotify/mobius).
 
 ### Dependencies
-The code is written in [Kotlin](https://kotlinlang.org/)
+The code is written in [Kotlin](https://kotlinlang.org/).
+
 Almost all necessary dependencies are available under Mobius dependecy, I just added [RxBinding](https://github.com/JakeWharton/RxBinding).
 
 ### Using it
